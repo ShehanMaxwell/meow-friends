@@ -1,4 +1,6 @@
-live demo : https://shehanmaxwell.github.io/meow-friends/
+*) live demo : https://shehanmaxwell.github.io/meow-friends/
+
+*) Used the API https://robohash.org/ to genarate profile pictures.
 
 *) Avilable functions : 
 
