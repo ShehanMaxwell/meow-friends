@@ -2,8 +2,8 @@ live demo : https://shehanmaxwell.github.io/meow-friends/
 
 *) Avilable functions : 
 
-   1.Search function
-   2.scroll function
+1. Search function
+2. scroll function
 
 *) used techoldogies :
 
